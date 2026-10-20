@@ -6,11 +6,10 @@
 CollabBoard is a real-time collaborative whiteboard (portfolio-grade, full-stack). Built one small, tested, pushed milestone per session.
 
 ## Current status
-- **Current session:** 3b
+- **Current session:** 4
 - **Branch:** `main` (update after first push)
 - **Last verified commit:** _none yet_
-- **Next session objective:** Session 4: canvas viewport and rendering foundation.
-
+- **Next session objective:** Session 5: pan, zoom and first Vitest tests
 ## Stack (approved)
 - **Runtime:** Node 26
 - **Frontend:** React, TypeScript (strict), Vite, Tailwind CSS, shadcn/ui, Lucide, React Konva, TanStack Query (when useful)
@@ -38,7 +37,7 @@ collabboard/
 (Whether to use npm workspaces or pnpm is decided in Session 2.)
 
 ## Feature status
-- Implemented: _nothing yet_
+- Implemented: App shell, /health endpoint, Konva canvas that fills its container
 - Partially implemented: _nothing yet_
 - Planned: everything in ROADMAP.md
 

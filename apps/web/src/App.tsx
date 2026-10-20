@@ -7,6 +7,7 @@ import {
   StickyNote,
   Type,
 } from 'lucide-react'
+import { CanvasView } from './features/canvas/CanvasView'
 
 const tools = [
   { label: 'Select', Icon: MousePointer2 },
@@ -44,8 +45,8 @@ export default function App() {
           ))}
         </nav>
 
-        <main className="flex flex-1 items-center justify-center">
-          <p className="text-ink-muted">Canvas goes here (Session 5)</p>
+        <main className="min-h-0 min-w-0 flex-1">
+          <CanvasView />
         </main>
       </div>
     </div>
