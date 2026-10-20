@@ -6,10 +6,10 @@
 CollabBoard is a real-time collaborative whiteboard (portfolio-grade, full-stack). Built one small, tested, pushed milestone per session.
 
 ## Current status
-- **Current session:** 2 — Frontend and backend scaffolding
+- **Current session:** 3b
 - **Branch:** `main` (update after first push)
 - **Last verified commit:** _none yet_
-- **Next session objective:** Session 3 — app shell, design tokens, navigation, health endpoint
+- **Next session objective:** Session 4: canvas viewport and rendering foundation.
 
 ## Stack (approved)
 - **Runtime:** Node 26
