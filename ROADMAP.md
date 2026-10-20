@@ -5,8 +5,8 @@ Rule: one session = one milestone = working code + tests + commit/push + confirm
 
 | # | Phase | Milestone | Acceptance (summary) | Status |
 |---|-------|-----------|----------------------|--------|
-| 1 | Foundation | Repo setup, architecture, roadmap, design spec | Docs committed and pushed; repo connected to GitHub | in progress |
-| 2 | Foundation | Frontend + backend scaffolding | Both apps start; strict TS; lint + typecheck pass | planned |
+| 1 | Foundation | Repo setup, architecture, roadmap, design spec | Docs committed and pushed; repo connected to GitHub | completed |
+| 2 | Foundation | Frontend + backend scaffolding | Both apps start; strict TS; lint + typecheck pass | in progress |
 | 3 | Foundation | App shell, design tokens, nav, health endpoint, basic checks | Tokens applied; `/health` returns OK; first tests pass | planned |
 | 4 | Canvas | Viewport and rendering foundation | Konva stage renders at correct size, resizes | planned |
 | 5 | Canvas | Pan, zoom, navigation controls | Wheel/trackpad zoom, pan, zoom %, fit | planned |

@@ -6,12 +6,13 @@
 CollabBoard is a real-time collaborative whiteboard (portfolio-grade, full-stack). Built one small, tested, pushed milestone per session.
 
 ## Current status
-- **Current session:** 1 — Architecture, roadmap, design spec (docs only)
+- **Current session:** 2 — Frontend and backend scaffolding
 - **Branch:** `main` (update after first push)
 - **Last verified commit:** _none yet_
-- **Next session objective:** Session 2 — scaffold frontend (Vite + React + TS strict) and backend (NestJS) in a monorepo layout
+- **Next session objective:** Session 3 — app shell, design tokens, navigation, health endpoint
 
 ## Stack (approved)
+- **Runtime:** Node 26
 - **Frontend:** React, TypeScript (strict), Vite, Tailwind CSS, shadcn/ui, Lucide, React Konva, TanStack Query (when useful)
 - **Backend:** Node.js, TypeScript, NestJS, REST + WebSockets (Socket.IO candidate), PostgreSQL, Prisma, class-validator, Swagger
 - **Collaboration:** Yjs (document state) + transport via WebSocket; Redis only when justified
